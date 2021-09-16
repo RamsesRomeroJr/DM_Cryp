@@ -1,0 +1,6 @@
+{
+    "text": "850 is the maximum possible Fair Isaac credit score.",
+    "number": 850,
+    "found": true,
+    "type": "trivia"
+}
